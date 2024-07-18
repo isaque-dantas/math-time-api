@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTimeApi", "MathTimeApi.csproj", "{27BA543A-D2DC-4E5F-82C5-6AAACF10B68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTimeApiTest", "MathTimeApiTest\MathTimeApiTest.csproj", "{CD2947A4-1DF1-45ED-8F76-D80EB6D91A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BA543A-D2DC-4E5F-82C5-6AAACF10B68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BA543A-D2DC-4E5F-82C5-6AAACF10B68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BA543A-D2DC-4E5F-82C5-6AAACF10B68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BA543A-D2DC-4E5F-82C5-6AAACF10B68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2947A4-1DF1-45ED-8F76-D80EB6D91A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2947A4-1DF1-45ED-8F76-D80EB6D91A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2947A4-1DF1-45ED-8F76-D80EB6D91A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2947A4-1DF1-45ED-8F76-D80EB6D91A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

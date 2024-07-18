@@ -1,0 +1,6 @@
+@MathTimeApi_HostAddress = http://localhost:5145
+
+GET {{MathTimeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,21 @@
+- Challenge
+	- get random (with round on the url) {id: string, equation: string, correctAnswer: number}
+	- post {id: string, gameId: number, equation: string, userAnswer: number}
+
+- Game
+	- post {userId: number}
+
+- User CRUD & Authentication
+
+++ Challenge ++
+- id: number
+- gameId: number
+- equation: string
+- answer: number
+- maxScore: number
+- maxTime: number
+
+++ Game ++
+- id: number
+- currentRound: number
+- scoreAmount: number
